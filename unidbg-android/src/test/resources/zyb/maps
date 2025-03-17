@@ -1,0 +1,92 @@
+64594478d000-645944793000 r-xp 00000000 08:23 4325972                    /data/user/0/bin.mt.plus/files/mtio
+645944793000-645944794000 r--p 00005000 08:23 4325972                    /data/user/0/bin.mt.plus/files/mtio
+645944794000-645944795000 rw-p 00005000 08:23 4325972                    /data/user/0/bin.mt.plus/files/mtio
+7ecdea43d000-7ece1c707000 ---p 00000000 00:00 0                          [anon:cfi shadow]
+7ece1c707000-7ece1c708000 r--p 00000000 00:00 0                          [anon:cfi shadow]
+7ece1c708000-7ece29ac0000 ---p 00000000 00:00 0                          [anon:cfi shadow]
+7ece29ac0000-7ece29ac1000 r--p 00000000 00:00 0                          [anon:cfi shadow]
+7ece29ac1000-7ece2a434000 ---p 00000000 00:00 0                          [anon:cfi shadow]
+7ece2a434000-7ece2a435000 r--p 00000000 00:00 0                          [anon:cfi shadow]
+7ece2a435000-7ece6a43d000 ---p 00000000 00:00 0                          [anon:cfi shadow]
+7ece6a43d000-7ece6a43e000 ---p 00000000 00:00 0 
+7ece6a43e000-7ece6a47e000 rw-p 00000000 00:00 0                          [anon:scudo:primary]
+7ece6a47e000-7ece7a443000 ---p 00000000 00:00 0 
+7ece7a443000-7ece7a483000 rw-p 00000000 00:00 0                          [anon:scudo:primary]
+7ece7a483000-7ece9a44c000 ---p 00000000 00:00 0 
+7ece9a44c000-7ece9a48c000 rw-p 00000000 00:00 0                          [anon:scudo:primary]
+7ece9a48c000-7ecfca442000 ---p 00000000 00:00 0 
+7ecfca442000-7ecfca482000 rw-p 00000000 00:00 0                          [anon:scudo:primary]
+7ecfca482000-7ed07a43d000 ---p 00000000 00:00 0 
+7ed07a43d000-7ed07a484000 r--p 00000000 08:06 486                        /apex/com.android.runtime/lib64/bionic/libc.so
+7ed07a484000-7ed07a514000 r-xp 00046000 08:06 486                        /apex/com.android.runtime/lib64/bionic/libc.so
+7ed07a514000-7ed07a519000 r--p 000d5000 08:06 486                        /apex/com.android.runtime/lib64/bionic/libc.so
+7ed07a519000-7ed07a51a000 rw-p 000d9000 08:06 486                        /apex/com.android.runtime/lib64/bionic/libc.so
+7ed07a51a000-7ed07a51f000 rw-p 00000000 00:00 0                          [anon:.bss]
+7ed07a51f000-7ed07a520000 r--p 00000000 00:00 0                          [anon:.bss]
+7ed07a520000-7ed07aa75000 rw-p 00000000 00:00 0                          [anon:.bss]
+7ed07aa9d000-7ed07aa9e000 ---p 00000000 00:00 0 
+7ed07aa9e000-7ed07ab22000 rw-p 00000000 00:00 0                          [anon:scudo:secondary]
+7ed07ab22000-7ed07ab23000 ---p 00000000 00:00 0 
+7ed07ab23000-7ed07ab26000 r--p 00000000 08:06 3832                       /system/lib64/libnetd_client.so
+7ed07ab26000-7ed07ab27000 ---p 00000000 00:00 0 
+7ed07ab27000-7ed07ab2b000 r-xp 00003000 08:06 3832                       /system/lib64/libnetd_client.so
+7ed07ab2b000-7ed07ab2d000 r--p 00006000 08:06 3832                       /system/lib64/libnetd_client.so
+7ed07ab2d000-7ed07ab2e000 rw-p 00007000 08:06 3832                       /system/lib64/libnetd_client.so
+7ed07ab41000-7ed07ab90000 r--p 00000000 08:06 3635                       /system/lib64/libc++.so
+7ed07ab90000-7ed07abee000 r-xp 0004e000 08:06 3635                       /system/lib64/libc++.so
+7ed07abee000-7ed07abf5000 r--p 000ab000 08:06 3635                       /system/lib64/libc++.so
+7ed07abf5000-7ed07abf6000 rw-p 000b1000 08:06 3635                       /system/lib64/libc++.so
+7ed07abf6000-7ed07abf9000 rw-p 00000000 00:00 0                          [anon:.bss]
+7ed07ac00000-7ed07c400000 ---p 00000000 00:00 0 
+7ed07c43e000-7ed07c45e000 r--s 00000000 00:11 196                        /dev/__properties__/u:object_r:heapprofd_prop:s0
+7ed07c45e000-7ed07c47e000 r--s 00000000 00:11 209                        /dev/__properties__/u:object_r:libc_debug_prop:s0
+7ed07c47e000-7ed07c4e2000 rw-p 00000000 00:00 0                          [anon:linker_alloc]
+7ed07c4e2000-7ed07c502000 r--p 00000000 08:06 489                        /apex/com.android.runtime/lib64/bionic/libm.so
+7ed07c502000-7ed07c52b000 r-xp 0001f000 08:06 489                        /apex/com.android.runtime/lib64/bionic/libm.so
+7ed07c52b000-7ed07c52c000 r--p 00047000 08:06 489                        /apex/com.android.runtime/lib64/bionic/libm.so
+7ed07c52c000-7ed07c52d000 rw-p 00047000 08:06 489                        /apex/com.android.runtime/lib64/bionic/libm.so
+7ed07c539000-7ed07c559000 r--s 00000000 00:11 148                        /dev/__properties__/u:object_r:debug_prop:s0
+7ed07c559000-7ed07c579000 r--s 00000000 00:11 321                        /dev/__properties__/properties_serial
+7ed07c579000-7ed07c57a000 r--p 00000000 08:06 487                        /apex/com.android.runtime/lib64/bionic/libdl.so
+7ed07c57a000-7ed07c57b000 r-xp 00000000 08:06 487                        /apex/com.android.runtime/lib64/bionic/libdl.so
+7ed07c57b000-7ed07c57c000 r--p 00000000 08:06 487                        /apex/com.android.runtime/lib64/bionic/libdl.so
+7ed07c57c000-7ed07c57d000 ---p 00000000 00:00 0 
+7ed07c57d000-7ed07c57e000 r--p 00000000 00:00 0                          [anon:.bss]
+7ed07c585000-7ed07c588000 rw-p 00000000 00:00 0                          [anon:System property context nodes]
+7ed07c588000-7ed07c598000 r--s 00000000 00:11 79                         /dev/__properties__/property_info
+7ed07c598000-7ed07c599000 ---p 00000000 00:00 0 
+7ed07c599000-7ed07c59c000 rw-p 00000000 00:00 0                          [anon:stack_and_tls:main]
+7ed07c59c000-7ed07c59d000 ---p 00000000 00:00 0 
+7ed07c5e1000-7ed07c601000 r--s 00000000 00:11 303                        /dev/__properties__/u:object_r:vendor_socket_hook_prop:s0
+7ed07c601000-7ed07c6c9000 r--p 00000000 00:00 0                          [anon:linker_alloc]
+7ed07c6c9000-7ed07c6e9000 r--s 00000000 00:11 306                        /dev/__properties__/u:object_r:vndk_prop:s0
+7ed07c6ea000-7ed07c6f9000 rw-p 00000000 00:00 0                          [anon:bionic_alloc_small_objects]
+7ed07c6f9000-7ed07c75d000 r--p 00000000 00:00 0                          [anon:linker_alloc]
+7ed07c75d000-7ed07c75e000 rw-p 00000000 00:00 0                          [anon:bionic_alloc_small_objects]
+7ed07c75e000-7ed07c77e000 r--s 00000000 00:11 148                        /dev/__properties__/u:object_r:debug_prop:s0
+7ed07c77e000-7ed07c79e000 r--s 00000000 00:11 109                        /dev/__properties__/u:object_r:build_prop:s0
+7ed07c79e000-7ed07c79f000 ---p 00000000 00:00 0 
+7ed07c79f000-7ed07c7a7000 rw-p 00000000 00:00 0 
+7ed07c7a7000-7ed07c7a8000 ---p 00000000 00:00 0 
+7ed07c7a8000-7ed07c7c8000 r--s 00000000 00:11 321                        /dev/__properties__/properties_serial
+7ed07c7c8000-7ed07c7cb000 rw-p 00000000 00:00 0                          [anon:System property context nodes]
+7ed07c7cb000-7ed07c7db000 r--s 00000000 00:11 79                         /dev/__properties__/property_info
+7ed07c7db000-7ed07c83f000 r--p 00000000 00:00 0                          [anon:linker_alloc]
+7ed07c83f000-7ed07c841000 rw-p 00000000 00:00 0                          [anon:bionic_alloc_small_objects]
+7ed07c841000-7ed07c842000 r--p 00000000 00:00 0                          [anon:atexit handlers]
+7ed07c842000-7ed07c843000 ---p 00000000 00:00 0 
+7ed07c843000-7ed07c84b000 rw-p 00000000 00:00 0                          [anon:thread signal stack]
+7ed07c84b000-7ed07c84c000 rw-p 00000000 00:00 0                          [anon:arc4random data]
+7ed07c84d000-7ed07c84e000 r--p 00000000 00:00 0                          [anon:atexit handlers]
+7ed07c84e000-7ed07c84f000 rw-p 00000000 00:00 0                          [anon:arc4random data]
+7ed07c84f000-7ed07c895000 r--p 00000000 08:06 464                        /apex/com.android.runtime/bin/linker64
+7ed07c895000-7ed07c995000 r-xp 00045000 08:06 464                        /apex/com.android.runtime/bin/linker64
+7ed07c995000-7ed07c99d000 r--p 00144000 08:06 464                        /apex/com.android.runtime/bin/linker64
+7ed07c99d000-7ed07c99f000 rw-p 0014b000 08:06 464                        /apex/com.android.runtime/bin/linker64
+7ed07c99f000-7ed07c9a4000 rw-p 00000000 00:00 0                          [anon:.bss]
+7ed07c9a4000-7ed07c9a5000 r--p 00000000 00:00 0                          [anon:.bss]
+7ed07c9a5000-7ed07c9ab000 rw-p 00000000 00:00 0                          [anon:.bss]
+7ffef5ead000-7ffef5ece000 rw-p 00000000 00:00 0                          [stack]
+7ffef5fc3000-7ffef5fc6000 r--p 00000000 00:00 0                          [vvar]
+7ffef5fc6000-7ffef5fc7000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
