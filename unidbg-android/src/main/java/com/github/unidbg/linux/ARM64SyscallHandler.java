@@ -1235,6 +1235,7 @@ public class ARM64SyscallHandler extends AndroidSyscallHandler {
             case CLOCK_MONOTONIC_RAW:
             case CLOCK_MONOTONIC_COARSE:
             case CLOCK_BOOTTIME:
+            case 2:
                 tp.setLong(0, tv_sec);
                 tp.setLong(8, tv_nsec);
                 return 0;
